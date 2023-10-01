@@ -1,5 +1,7 @@
 ### Step 1:
 * Solve bottom layer as white with all side colors of bottom layer.
+* Use below formula and adjust the Upper layer.
+##### RUR' 
 
 ### Step 2:
 * Solve top of the Cube as Yellow. using below formula.
