@@ -1,6 +1,6 @@
 ### Step 1:
 * Solve bottom layer as white with all side colors of bottom layer.
-* Use below formula and adjust the Upper layer.
+* Repeate below formula and adjust the Upper layer to solve the bottom white layer.
 ##### RUR' 
 
 ### Step 2:
